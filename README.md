@@ -1,6 +1,6 @@
 drop_annotations.json
 
-Contains 8500 annotations on random samples from DROP (https://arxiv.org/pdf/1903.00161.pdf)
+Contains ~8500 annotations on random samples from DROP (https://arxiv.org/pdf/1903.00161.pdf)
 
 Format:
 ```json
