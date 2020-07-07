@@ -19,7 +19,7 @@ Format:
 
 quoref_annotations.json
 
-Contains 2000 annotations on random samples from Quoref (https://arxiv.org/pdf/1908.05803.pdf)
+Contains ~2000 annotations on random samples from Quoref (https://arxiv.org/pdf/1908.05803.pdf)
 
 Format:
 ```json
